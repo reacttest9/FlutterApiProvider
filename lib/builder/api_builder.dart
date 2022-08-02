@@ -1,3 +1,4 @@
+library api_builder_provider;
 import '../apis/api_base_helper.dart';
 import 'enums/api_methods_type.dart';
 

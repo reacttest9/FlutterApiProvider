@@ -4,6 +4,8 @@
 *.pyc
 *.swp
 .DS_Store
+.flutter-plugins
+.flutter-plugins-dependencies
 .atom/
 .buildlog/
 .history
