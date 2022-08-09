@@ -1,3 +1,3 @@
-## 0.0.1
+##New functionalities added:
 
-* TODO: Describe initial release.
+added all api method access.
